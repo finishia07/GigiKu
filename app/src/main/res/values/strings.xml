@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GigiKu</string>
+    <string name="kategori">Kategori</string>
+    <string name="detail">Detail</string>
+    <string name="about">About Me</string>
+    <string name="nama">Firmanni Finishia</string>
+    <string name="email">drg.finish@gmail.com</string>
+    <string name="phone">DIAL A NUMBER</string>
+    <string name="back">Back</string>
+</resources>
